@@ -1,15 +1,8 @@
-import Head from "next/head"
 
 export default function Index() {
     return (
         <>
-     
-            <head>
-                <title>Jasper's week 1 website</title>
-            <meta name="description" content="Welcome to the SITE!"/>
-            </head>
-
-            
+    
 
             <div id="background">
             <div id="center-all">
