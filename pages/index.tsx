@@ -10,6 +10,7 @@ export default function Index() {
 
                 <div id="top-section">          <a href="https://tsl.news">  <img src="/studying-penguin-poo-t.jpg" id="template"/> </a>
                 <h2> What's good bro? Bro?!? </h2>
+                <h5><a href="results">Go to the results page</a></h5>
                 </div>
             <div id="body">
             <h1>Jasper is saying hello</h1>
