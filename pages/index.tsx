@@ -15,16 +15,13 @@ export default function Index() {
             <div id="center-all">
             <div id="container">
 
-            <span>Jasper :)))) </span>
-
                 <div id="top-section">          <a href="https://tsl.news">  <img src="/studying-penguin-poo-t.jpg" id="template"/> </a>
                 <h2> What's good bro? Bro?!? </h2>
                 </div>
             <div id="body">
             <h1>Jasper is saying hello</h1>
             <p>To sit in solemn silence on a dull, dark dock.</p>
-            <p className="thin">Whats good</p>
-            <p class="bolder">Whats good</p></div>
+            <p className="thin">Whats good</p></div>
             </div>
             <div className="project-box">
                 <p>You can take corn out of <b>Illinois</b></p>
