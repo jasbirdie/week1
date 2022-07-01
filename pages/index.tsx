@@ -18,7 +18,7 @@ export default function Index() {
             </div>
             <div className="project-box">
                 <p>You can take corn out of <b>Illinois</b></p>
-                <div id="flexright"> <p class ="think"> But you can never take <i>Illinois</i> out of corn</p></div>
+                <div id="flexright"> <p className="think"> But you can never take <i>Illinois</i> out of corn</p></div>
                 <div id="flexright"><p><u><b>Fun fact</b> </u><br></br>Corn is made of husks and kernels</p></div>
             </div>
             </div>
