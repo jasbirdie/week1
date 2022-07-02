@@ -20,7 +20,8 @@ export default function Index() {
             <DataVis                   
                     cand={d.cand}
                     pct={d.pct}
-                    party={d.party} />
+                    party={d.party}
+                    won={d.won} />
                 ))}
              
                 </div>
@@ -31,7 +32,9 @@ export default function Index() {
             
             <DataVis                   
                     cand={d.cand}
-                    pct={d.pct} />
+                    pct={d.pct}
+                    party={d.party}
+                    won={d.won} />
                 ))}
              
                 </div>
