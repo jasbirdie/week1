@@ -95,6 +95,28 @@ h2 {
     flex-basis: 30%;
 }
 
+.tab {
+    background: none;
+    border: none;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 700;
+    cursor: pointer;
+    margin-right: 32px;
+    opacity: 0.5;
+}
+
+.about {
+    background: none;
+    border: none;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 700;
+    cursor: pointer;
+    margin-right: 32px;
+    opacity: 1;
+}
+
 /* Results page */
 
 #r-header-img {
@@ -168,7 +190,7 @@ h6 {
     padding: 0;
     margin: 4%;
     font-family: "Open Sans", sans-serif;
-    display: flex;
+
 }
 
 .progbar {
@@ -237,10 +259,14 @@ h6 {
     font-weight: 700;
 }
 
-#flexleft-r {
+#flexleft-r {   
     flex-basis: 50%;
     }
     
 #flexright-r {
 flex-basis: 50%;
+}
+
+#newflex-r {
+    display: flex;
 }
